@@ -7,6 +7,11 @@
   height: 100vh;
 }
 
+.chat {
+  background-color: #ffffff;
+  width: calc(100% - 300px);
+}
+
 .side-bar-header {
   height: 100px;
   padding: 0 20px;
@@ -47,11 +52,6 @@
 .room-name a {
   text-decoration: none;
   color: white;
-}
-
-.chat {
-  background-color: #ffffff;
-  width: calc(100% - 300px);
 }
 
 .chat-header {
